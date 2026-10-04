@@ -1,0 +1,1 @@
+DROP INDEX market_proposal_negotiation_id_idx;
